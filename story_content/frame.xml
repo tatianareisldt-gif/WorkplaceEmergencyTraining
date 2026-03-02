@@ -6,7 +6,7 @@
     <layout name="npxnabnsnfns00001100101" font="Open Sans" controllayout="npxnabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
     <layout name="npnxnanbnsnfns00001100101" font="Open Sans" controllayout="npnxnanbnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
     <layout name="pxabnsnfns00001100100" font="Open Sans" controllayout="pxabnsnfns00001100100" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="pxnanbsnfns00001100101" font="Open Sans" controllayout="pxnanbsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="pnxnanbsnfns00001100101" font="Open Sans" controllayout="pnxnanbsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -202,14 +202,14 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
-    <control_layout name="pxnanbsnfns00001100101">
+    <control_layout name="pnxnanbsnfns00001100101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
-      <control name="next" enabled="true" />
+      <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
       <control name="submit" enabled="true" />
@@ -1310,7 +1310,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6l2D4YM1Pcb" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6l2D4YM1Pcb" displaytext="Workplace Emergency Response Team Training" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6l2D4YM1Pcb.5XObFf5JzRn" displaytext="Welcome" expand="false" type="slide" />
             <slidelink slideid="_player.6l2D4YM1Pcb.5dURkWRKJfU" displaytext="Welcome 2" expand="false" type="slide" />
@@ -1319,23 +1319,21 @@
             <slidelink slideid="_player.6l2D4YM1Pcb.5tbTnjxgLZK" displaytext="Video" expand="false" type="slide" />
             <slidelink slideid="_player.6l2D4YM1Pcb.5h6eOc8XNWb" displaytext="Learning Goals" expand="false" type="slide" />
             <slidelink slideid="_player.6l2D4YM1Pcb.6qaCcXuthak" displaytext="Who is the team?" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.6ROH7ZAo9RT" displaytext="Who is the team?" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.5VDsfNTDjMF" displaytext="Who is the team?" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.620wgD5dvJb" displaytext="ERT Roles" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.66NNxCMxMma" displaytext="Agenda" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.6RQJpD3JbMR" displaytext="Role Selection 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.6pOEAkg52f5" displaytext="Role Selection 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.5zAzjOR43Ed" displaytext="Role Explanation" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.6fwxKBJBoYf" displaytext="During an emergency, information has to flow in the right order. Can you put the steps in the correct sequence?" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.6DKfapMZzw0" displaytext="Knowledge Check 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6l2D4YM1Pcb.6ROH7ZAo9RT" displaytext="Who is the team? 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6l2D4YM1Pcb.5VDsfNTDjMF" displaytext="Who is the team? 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6l2D4YM1Pcb.66NNxCMxMma" displaytext="Agenda " expand="false" type="slide" />
+            <slidelink slideid="_player.6l2D4YM1Pcb.6RQJpD3JbMR" displaytext="Team Role" expand="false" type="slide" />
+            <slidelink slideid="_player.6l2D4YM1Pcb.6pOEAkg52f5" displaytext="Team Role 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6l2D4YM1Pcb.5zAzjOR43Ed" displaytext="Team Role Flipcards" expand="false" type="slide" />
             <slidelink slideid="_player.6l2D4YM1Pcb.5wj3q4yJbZp" displaytext="Quiz 1" expand="false" type="slide" />
             <slidelink slideid="_player.6l2D4YM1Pcb.6bhwoNLDh6R" displaytext="Quiz 2" expand="false" type="slide" />
             <slidelink slideid="_player.6l2D4YM1Pcb.5fT8T97q1ig" displaytext="Quiz 3" expand="false" type="slide" />
             <slidelink slideid="_player.6l2D4YM1Pcb.5dyVLrx2PaD" displaytext="Evacuation Map" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.5zkbFJAbUnm" displaytext="Introduction 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.68dpelmzzEv" displaytext="The fire alarm has activated. What should the Emergency Response Team do first?" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.5joeqOw5AeV" displaytext="Introduction 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6l2D4YM1Pcb.6duPE4mGt5r" displaytext="Introduction 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6l2D4YM1Pcb.5zkbFJAbUnm" displaytext="Scenario Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6l2D4YM1Pcb.6fwxKBJBoYf" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.6l2D4YM1Pcb.68dpelmzzEv" displaytext="Scenario 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6l2D4YM1Pcb.5joeqOw5AeV" displaytext="Conclusion" expand="false" type="slide" />
+            <slidelink slideid="_player.6l2D4YM1Pcb.6duPE4mGt5r" displaytext="Copyright" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
